@@ -1,0 +1,4 @@
+click izquierdo para poner casillas blancas, derecho para quitar , espacio para prograsar el estado , y "f" para resetear
+
+
+-->pulsa main para abrirlo
